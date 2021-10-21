@@ -22,3 +22,6 @@ sh instal.sh
 ## use
 
 `python3 ip.py`
+
+
+![](Screenshot_2021_1021_154326.png)
