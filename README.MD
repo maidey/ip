@@ -1,3 +1,5 @@
+https://maidey.github.io/
+
 ## install
 
 ```bash
