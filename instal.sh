@@ -41,6 +41,7 @@ head(){
 head
 echo "instaling python ..."
 pkg i python python2 python3 -y
+pip install --upgrade ipapi
 echo "instaling ip api..."
 python3 ipapi-python/setup.py install
 python3 ip.py
