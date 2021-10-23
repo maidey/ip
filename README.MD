@@ -12,12 +12,14 @@ facebook [deiterada](https://facebook.com/deiterada)
 ```bash
 
 git clone https://github.com/ipapi-co/ipapi-python
-
 cd ipapi-python
-
 python3 setup.py install
-git clone https://github.com/maidey/ip
 
+
+
+cd
+git clone https://github.com/maidey/ip
+python3 ip py
 
 ```
 
