@@ -43,5 +43,6 @@ echo "instaling python ..."
 pkg i python python2 python3 -y
 pip install --upgrade ipapi
 echo "instaling ip api..."
-python3 ipapi-python/setup.py install
+git clone https://github.com/ipapi-co/ipapi-python
+cd ipapi-python && python3 setup.py install
 python3 ip.py
